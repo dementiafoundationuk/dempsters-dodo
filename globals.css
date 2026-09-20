@@ -1,0 +1,4 @@
+@import "tailwindcss";
+:root { --ink:#171717; --cream:#fff8ea; --yellow:#ffd447; --blue:#123b63; --red:#e84b3c; }
+*{box-sizing:border-box} html{scroll-behavior:smooth} body{margin:0;background:var(--cream);color:var(--ink);font-family:Arial,Helvetica,sans-serif} button,input,textarea{font:inherit}
+.grain{background-image:radial-gradient(rgba(18,59,99,.08) 1px,transparent 1px);background-size:12px 12px}
